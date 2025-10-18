@@ -1,0 +1,15 @@
+learntrack-lms/
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   └── README.md
+├── backend/
+│   ├── server.js
+│   ├── routes/
+│   ├── models/
+│   ├── controllers/
+│   ├── .env (ignored in git)
+│   └── package.json
+├── README.md
+└── .gitignore
